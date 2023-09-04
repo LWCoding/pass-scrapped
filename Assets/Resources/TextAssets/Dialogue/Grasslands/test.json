@@ -1,0 +1,136 @@
+{
+    "dialogueName": "test-dialogue",
+    "dialogues": [
+        {
+            "id": 0,
+            "next": 1,
+            "initialLeftSprite": "JackNeutral",
+            "initialRightSprite": "RenoNeutral",
+            "rawDialogueList": [
+                {
+                    "name": "Jack",
+                    "contents": "Howdy fella",
+                    "active": "left",
+                    "id": 0,
+                    "next": 1
+                },
+                {
+                    "name": "Reno",
+                    "contents": "The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.",
+                    "active": "right",
+                    "rightSprite": "RenoAngry",
+                    "id": 1,
+                    "next": 2
+                },
+                {
+                    "name": "Jack",
+                    "contents": "More debug stuff lololololol. This is some additional text to see if both characters move their FAT mouths or not.",
+                    "active": "both",
+                    "id": 2,
+                    "next": -1
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "next": 2,
+            "initialLeftSprite": "JackNeutral",
+            "initialRightSprite": "RenoThink",
+            "rawDialogueList": [
+                {
+                    "name": "Reno",
+                    "contents": "Haven't I already talked enough",
+                    "active": "right",
+                    "id": 0,
+                    "options": [
+                        {
+                            "optionName": "Choose Option A",
+                            "next": 1
+                        },
+                        {
+                            "optionName": "Choose Option B",
+                            "next": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Reno",
+                    "contents": "A is a very nice letter.",
+                    "active": "right",
+                    "id": 1,
+                    "next": 2
+                },
+                {
+                    "name": "Reno",
+                    "contents": "In fact, I commend you for selecting the letter A.",
+                    "active": "right",
+                    "rightSprite": "RenoSweat",
+                    "id": 2,
+                    "next": -1
+                },
+                {
+                    "name": "Reno",
+                    "contents": "B?!? You're a crazy man",
+                    "active": "right",
+                    "id": 3,
+                    "next": 4
+                },
+                {
+                    "name": "Reno",
+                    "contents": "If you think that B is better then you are clearly a leftist.",
+                    "active": "right",
+                    "rightSprite": "RenoAngry",
+                    "id": 4,
+                    "next": -1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "prereq": "partyCount=0",
+            "elsePrereq": 3,
+            "next": 4,
+            "initialLeftSprite": "JackNeutral",
+            "initialRightSprite": "RenoThink",
+            "rawDialogueList": [
+                {
+                    "name": "Jack",
+                    "contents": "Wow you're pretty lonely",
+                    "active": "left",
+                    "id": 0,
+                    "next": -1
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "next": 4,
+            "initialLeftSprite": "JackNeutral",
+            "initialRightSprite": "RenoThink",
+            "rawDialogueList": [
+                {
+                    "name": "Jack",
+                    "contents": "Wow you have some people in your team that's crazy",
+                    "active": "left",
+                    "id": 0,
+                    "next": -1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "loop": true,
+            "initialLeftSprite": "JackNeutral",
+            "initialRightSprite": "RenoThink",
+            "rawDialogueList": [
+                {
+                    "name": "Reno",
+                    "contents": "I'm going to keep saying this until you go away",
+                    "active": "right",
+                    "id": 0,
+                    "next": -1
+                }
+            ]
+        }
+    ]
+}

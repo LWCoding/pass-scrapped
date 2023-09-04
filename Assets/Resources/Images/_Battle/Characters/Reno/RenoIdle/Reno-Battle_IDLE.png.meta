@@ -1,0 +1,1788 @@
+fileFormatVersion: 2
+guid: 05df6801072a8f747b6094aa07cf502a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2856050543179154633
+    second: Reno IDLE BATTLE0000
+  - first:
+      213: 2320268933247723596
+    second: Reno IDLE BATTLE0001
+  - first:
+      213: -8220374732199469024
+    second: Reno IDLE BATTLE0002
+  - first:
+      213: 4009121113318191929
+    second: Reno IDLE BATTLE0003
+  - first:
+      213: -5650982800762125235
+    second: Reno IDLE BATTLE0004
+  - first:
+      213: 8175300480600368062
+    second: Reno IDLE BATTLE0005
+  - first:
+      213: 8462604834607183864
+    second: Reno IDLE BATTLE0006
+  - first:
+      213: 5238727154150308693
+    second: Reno IDLE BATTLE0007
+  - first:
+      213: -2491245088286337699
+    second: Reno IDLE BATTLE0008
+  - first:
+      213: -8611221261483451165
+    second: Reno IDLE BATTLE0009
+  - first:
+      213: 8435820582053368181
+    second: Reno IDLE BATTLE0010
+  - first:
+      213: 9211977711632420681
+    second: Reno IDLE BATTLE0011
+  - first:
+      213: -4800620438539537191
+    second: Reno IDLE BATTLE0012
+  - first:
+      213: -6587204084292746717
+    second: Reno IDLE BATTLE0013
+  - first:
+      213: -7217926607218338141
+    second: Reno IDLE BATTLE0014
+  - first:
+      213: -797457491316408901
+    second: Reno IDLE BATTLE0015
+  - first:
+      213: -950496392043466416
+    second: Reno IDLE BATTLE0016
+  - first:
+      213: 2840642220585590204
+    second: Reno IDLE BATTLE0017
+  - first:
+      213: -5403730656438341243
+    second: Reno IDLE BATTLE0018
+  - first:
+      213: 671454472832217849
+    second: Reno IDLE BATTLE0019
+  - first:
+      213: -6622539373747541719
+    second: Reno IDLE BATTLE0020
+  - first:
+      213: 4602684331533095562
+    second: Reno IDLE BATTLE0021
+  - first:
+      213: 5003375421690433667
+    second: Reno IDLE BATTLE0022
+  - first:
+      213: 3857022917615793433
+    second: Reno IDLE BATTLE0023
+  - first:
+      213: 3533896909959743992
+    second: Reno IDLE BATTLE0024
+  - first:
+      213: 3472033589410910801
+    second: Reno IDLE BATTLE0025
+  - first:
+      213: 6731397423510906242
+    second: Reno IDLE BATTLE0026
+  - first:
+      213: -3304151852384395542
+    second: Reno IDLE BATTLE0027
+  - first:
+      213: 3125243224922907209
+    second: Reno IDLE BATTLE0028
+  - first:
+      213: -981499822032408369
+    second: Reno IDLE BATTLE0029
+  - first:
+      213: -1737264408451504985
+    second: Reno IDLE BATTLE0030
+  - first:
+      213: -1024700269960062044
+    second: Reno IDLE BATTLE0031
+  - first:
+      213: 6031561333224974640
+    second: Reno IDLE BATTLE0032
+  - first:
+      213: -2032695745889318729
+    second: Reno IDLE BATTLE0033
+  - first:
+      213: -886988485160582282
+    second: Reno IDLE BATTLE0034
+  - first:
+      213: -2809500301271731914
+    second: Reno IDLE BATTLE0035
+  - first:
+      213: -7695534717379445170
+    second: Reno IDLE BATTLE0036
+  - first:
+      213: -4364312289368249735
+    second: Reno IDLE BATTLE0037
+  - first:
+      213: 7458121285279247140
+    second: Reno IDLE BATTLE0038
+  - first:
+      213: -5844116214188813023
+    second: Reno IDLE BATTLE0039
+  - first:
+      213: 4707273870761228416
+    second: Reno IDLE BATTLE0040
+  - first:
+      213: -1657961878201480792
+    second: Reno IDLE BATTLE0041
+  - first:
+      213: -3445974174808898041
+    second: Reno IDLE BATTLE0042
+  - first:
+      213: 1457159541503125860
+    second: Reno IDLE BATTLE0043
+  - first:
+      213: -6203708237808949318
+    second: Reno IDLE BATTLE0044
+  - first:
+      213: -3159472998771837653
+    second: Reno IDLE BATTLE0045
+  - first:
+      213: -9013729102666893529
+    second: Reno IDLE BATTLE0046
+  - first:
+      213: 4778702649769767265
+    second: Reno IDLE BATTLE0047
+  - first:
+      213: 3158697908630183154
+    second: Reno IDLE BATTLE0048
+  - first:
+      213: 8915751029240320973
+    second: Reno IDLE BATTLE0049
+  - first:
+      213: 5184066597944377586
+    second: Reno IDLE BATTLE0050
+  - first:
+      213: -3717100400335271752
+    second: Reno IDLE BATTLE0051
+  - first:
+      213: 8318190205896184297
+    second: Reno IDLE BATTLE0052
+  - first:
+      213: 3656945000827873528
+    second: Reno IDLE BATTLE0053
+  - first:
+      213: 4934564037002013102
+    second: Reno IDLE BATTLE0054
+  - first:
+      213: -1789554740107636956
+    second: Reno IDLE BATTLE0055
+  - first:
+      213: -5096783695793118303
+    second: Reno IDLE BATTLE0056
+  - first:
+      213: -8716285632889642100
+    second: Reno IDLE BATTLE0057
+  - first:
+      213: -7717016305220269821
+    second: Reno IDLE BATTLE0058
+  - first:
+      213: 4438016047952105921
+    second: Reno IDLE BATTLE0059
+  - first:
+      213: 2103684761617847738
+    second: Reno IDLE BATTLE0060
+  - first:
+      213: 2235436498925305190
+    second: Reno IDLE BATTLE0061
+  - first:
+      213: 5425964034504016315
+    second: Reno IDLE BATTLE0062
+  - first:
+      213: 5241795723295958618
+    second: Reno IDLE BATTLE0063
+  - first:
+      213: -4296224264737230053
+    second: Reno IDLE BATTLE0064
+  - first:
+      213: -8408928284402769330
+    second: Reno IDLE BATTLE0065
+  - first:
+      213: 1965223182608415508
+    second: Reno IDLE BATTLE0066
+  - first:
+      213: -3273143579333806000
+    second: Reno IDLE BATTLE0067
+  - first:
+      213: 2154269023721096153
+    second: Reno IDLE BATTLE0068
+  - first:
+      213: 1484419993746674127
+    second: Reno IDLE BATTLE0069
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c441c646dab2a720800000000000000
+      internalID: 2856050543179154633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0001
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ea9d2d40433020800000000000000
+      internalID: 2320268933247723596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0002
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02067a60cbc5bed80800000000000000
+      internalID: -8220374732199469024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0003
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93379dc496243a730800000000000000
+      internalID: 4009121113318191929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0004
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d444bb8351da391b0800000000000000
+      internalID: -5650982800762125235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0005
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3e346f870847170800000000000000
+      internalID: 8175300480600368062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0006
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7b341a246317570800000000000000
+      internalID: 8462604834607183864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0007
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b725a3792b3b840800000000000000
+      internalID: 5238727154150308693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0008
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5591489ac15d6dd0800000000000000
+      internalID: -2491245088286337699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0009
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecdcfa03ebce7880800000000000000
+      internalID: -8611221261483451165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0010
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571583edf1e021570800000000000000
+      internalID: 8435820582053368181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0011
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8aacebe487df70800000000000000
+      internalID: 9211977711632420681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0012
+      rect:
+        serializedVersion: 2
+        x: 5974
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4fe5b5525c06db0800000000000000
+      internalID: -4800620438539537191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0013
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228abc29cc8594a0800000000000000
+      internalID: -6587204084292746717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0014
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a619e13ef5c4db90800000000000000
+      internalID: -7217926607218338141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0015
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd7c9203acdee4f0800000000000000
+      internalID: -797457491316408901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0016
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05175ff31982fc2f0800000000000000
+      internalID: -950496392043466416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0017
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd1bfb9c0dfb6720800000000000000
+      internalID: 2840642220585590204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0018
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581ba1129971205b0800000000000000
+      internalID: -5403730656438341243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0019
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f208194c715900800000000000000
+      internalID: 671454472832217849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0020
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9296dbcf6830814a0800000000000000
+      internalID: -6622539373747541719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0021
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 3399
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a825942730500ef30800000000000000
+      internalID: 4602684331533095562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0022
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38057cfdf6f8f6540800000000000000
+      internalID: 5003375421690433667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0023
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b70f78e5e68530800000000000000
+      internalID: 3857022917615793433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0024
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f94007248cea0130800000000000000
+      internalID: 3533896909959743992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0025
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152df0967242f2030800000000000000
+      internalID: 3472033589410910801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0026
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285e85eca4aba6d50800000000000000
+      internalID: 6731397423510906242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0027
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeddaa756b4522d0800000000000000
+      internalID: -3304151852384395542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0028
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942e932a7281f5b20800000000000000
+      internalID: 3125243224922907209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0029
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc036a0bc130162f0800000000000000
+      internalID: -981499822032408369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0030
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4a155993ff3e7e0800000000000000
+      internalID: -1737264408451504985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0031
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab98c7988887c1f0800000000000000
+      internalID: -1024700269960062044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0032
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0392bd3731964b350800000000000000
+      internalID: 6031561333224974640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0033
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8c1d12df96ac3e0800000000000000
+      internalID: -2032695745889318729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0034
+      rect:
+        serializedVersion: 2
+        x: 5974
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67344261ca8c0b3f0800000000000000
+      internalID: -886988485160582282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0035
+      rect:
+        serializedVersion: 2
+        x: 5974
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63178528c56a209d0800000000000000
+      internalID: -2809500301271731914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0036
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e79ed72f7f33590800000000000000
+      internalID: -7695534717379445170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0037
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a655f8819de63c0800000000000000
+      internalID: -4364312289368249735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0038
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b69dc4bc1908760800000000000000
+      internalID: 7458121285279247140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0039
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125dc23444785eea0800000000000000
+      internalID: -5844116214188813023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0040
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088733f25a8935140800000000000000
+      internalID: 4707273870761228416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0041
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a949aeb47cbdf8e0800000000000000
+      internalID: -1657961878201480792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0042
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706885ddeb07d20d0800000000000000
+      internalID: -3445974174808898041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0043
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4696d54f1eed83410800000000000000
+      internalID: 1457159541503125860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0044
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7ab33f93008e9a0800000000000000
+      internalID: -6203708237808949318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0045
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2534c61c0c4724d0800000000000000
+      internalID: -3159472998771837653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0046
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72770fd432dc8e280800000000000000
+      internalID: -9013729102666893529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0047
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161beb6cdbc515240800000000000000
+      internalID: 4778702649769767265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0048
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcdbac2303f5db20800000000000000
+      internalID: 3158697908630183154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0049
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc351bbc25c1bbb70800000000000000
+      internalID: 8915751029240320973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0050
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0417eba1181f740800000000000000
+      internalID: 5184066597944377586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0051
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8cd8341e43a6cc0800000000000000
+      internalID: -3717100400335271752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0052
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1539cabe5207370800000000000000
+      internalID: 8318190205896184297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0053
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f86c795a1410c230800000000000000
+      internalID: 3656945000827873528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0054
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92ce2e8d71b7440800000000000000
+      internalID: 4934564037002013102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0055
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f84c102793a27e0800000000000000
+      internalID: -1789554740107636956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0056
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3af3b8b369449b0800000000000000
+      internalID: -5096783695793118303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0057
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83a5c2d568890780800000000000000
+      internalID: -8716285632889642100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0058
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c2719e86a7e490800000000000000
+      internalID: -7717016305220269821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0059
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11badf410079d30800000000000000
+      internalID: 4438016047952105921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0060
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 2662
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab552a7152ac13d10800000000000000
+      internalID: 2103684761617847738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0061
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66db264e6add50f10800000000000000
+      internalID: 2235436498925305190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0062
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb148a89a85ec4b40800000000000000
+      internalID: 5425964034504016315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0063
+      rect:
+        serializedVersion: 2
+        x: 5974
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56a73820799eb840800000000000000
+      internalID: 5241795723295958618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0064
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b137ce82bceb064c0800000000000000
+      internalID: -4296224264737230053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0065
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42207a174c7d4b80800000000000000
+      internalID: -8408928284402769330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0066
+      rect:
+        serializedVersion: 2
+        x: 7465
+        y: 1925
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bbcb78210e54b10800000000000000
+      internalID: 1965223182608415508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0067
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1188
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05835f6a1457392d0800000000000000
+      internalID: -3273143579333806000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0068
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1188
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d30685634085ed10800000000000000
+      internalID: 2154269023721096153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno IDLE BATTLE0069
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1188
+        width: 447
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc112c89e18b99410800000000000000
+      internalID: 1484419993746674127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,61 @@
+{
+    "dialogueName": "ryan-dialogue",
+    "dialogues": [
+        {
+            "id": 0,
+            "loop": true,
+            "initialLeftSprite": "JackNeutral",
+            "initialRightSprite": "RyanHappy",
+            "rawDialogueList": [
+                {
+                    "name": "Ryan",
+                    "contents": "Yeah so it's not gay because you have a scarf on.",
+                    "active": "right",
+                    "id": 0,
+                    "next": 1
+                },
+                {
+                    "name": "Jack",
+                    "contents": "Did you hit your head or something?",
+                    "active": "left",
+                    "leftSprite": "JackSkeptical",
+                    "id": 1,
+                    "next": 2
+                },
+                {
+                    "name": "Ryan",
+                    "contents": "What? No, dude. It's normal. It's just two friends kissing.",
+                    "rightSprite": "RyanSpooked",
+                    "active": "right",
+                    "id": 2,
+                    "next": 3
+                },
+                {
+                    "name": "Jack",
+                    "contents": "I dunno, it just sounds pretty gay Ryan...",
+                    "active": "left",
+                    "id": 3,
+                    "next": 4
+                },
+                {
+                    "name": "Jack",
+                    "contents": "-sigh- Fine...",
+                    "leftSprite": "JackAngry",
+                    "active": "left",
+                    "id": 4,
+                    "next": 5
+                },
+                {
+                    "name": "Jack",
+                    "contents": "-kiss-",
+                    "leftSprite": "JackNeutral",
+                    "rightSprite": "RyanHuh",
+                    "oneShot": "right",
+                    "active": "both",
+                    "id": 5,
+                    "next": -1
+                }
+            ]
+        }
+    ]
+}

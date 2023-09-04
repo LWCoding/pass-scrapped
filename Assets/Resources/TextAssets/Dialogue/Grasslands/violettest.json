@@ -1,0 +1,61 @@
+{
+    "dialogueName": "violet-dialogue",
+    "dialogues": [
+        {
+            "id": 0,
+            "loop": true,
+            "initialLeftSprite": "JackNeutral",
+            "initialRightSprite": "VioletNeutral",
+            "rawDialogueList": [
+                {
+                    "name": "Jack",
+                    "contents": "I got a boo boo :(",
+                    "active": "left",
+                    "id": 0,
+                    "next": 1
+                },
+                {
+                    "name": "Jack",
+                    "contents": "It hurts really badddddddd",
+                    "active": "left",
+                    "leftSprite": "JackSkeptical",
+                    "id": 1,
+                    "next": 2
+                },
+                {
+                    "name": "Violet",
+                    "contents": "You seem fine to me what are you talking about",
+                    "active": "right",
+                    "id": 2,
+                    "next": 3
+                },
+                {
+                    "name": "Ryan",
+                    "contents": "I have an 8 inch problem in my pants",
+                    "active": "both",
+                    "rightSprite": "VioletHuh",
+                    "oneShot": "right",
+                    "leftSprite": "RyanHappy",
+                    "id": 3,
+                    "next": 4
+                },
+                {
+                    "name": "Violet",
+                    "contents": "Ryan what the heck??????????????????????????????????????????",
+                    "rightSprite": "VioletSpooked",
+                    "active": "right",
+                    "id": 4,
+                    "next": 5
+                },
+                {
+                    "name": "Jack",
+                    "contents": "smh",
+                    "leftSprite": "JackAngry",
+                    "active": "left",
+                    "id": 5,
+                    "next": 6
+                }
+            ]
+        }
+    ]
+}

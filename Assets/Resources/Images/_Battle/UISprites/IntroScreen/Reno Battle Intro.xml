@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Reno Battle Intro.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Reno Intro0000" x="10" y="10" width="846" height="965"/>
+	<SubTexture name="Reno Intro0002" x="906" y="10" width="846" height="965"/>
+	<SubTexture name="Reno Intro0004" x="1802" y="10" width="846" height="965"/>
+	<SubTexture name="Reno Intro0010" x="2698" y="10" width="846" height="965"/>
+    <SubTexture name="Reno Intro0031" x="10" y="1025" width="846" height="965"/>
+	<SubTexture name="Reno Intro0033" x="906" y="1025" width="846" height="965"/>
+	<SubTexture name="Reno Intro0035" x="1802" y="1025" width="846" height="965"/>
+	<SubTexture name="Reno Intro0037" x="2698" y="1025" width="846" height="965"/>
+	<SubTexture name="Reno Intro0038" x="10" y="2040" width="846" height="965"/>
+</TextureAtlas>

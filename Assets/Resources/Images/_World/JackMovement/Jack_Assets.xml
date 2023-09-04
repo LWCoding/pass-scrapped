@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jack_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="J_Back0000" x="10" y="10" width="174" height="420" frameX="-56" frameY="0" frameWidth="287" frameHeight="420"/>
+	<SubTexture name="J_Back0009" x="234" y="10" width="230" height="414" frameX="-57" frameY="-5" frameWidth="287" frameHeight="420"/>
+	<SubTexture name="J_Back0019" x="10" y="10" width="174" height="420" frameX="-56" frameY="0" frameWidth="287" frameHeight="420"/>
+	<SubTexture name="J_Back0029" x="514" y="10" width="229" height="414" frameX="0" frameY="-5" frameWidth="287" frameHeight="420"/>
+	<SubTexture name="J_Foward0000" x="793" y="10" width="175" height="400" frameX="-45" frameY="0" frameWidth="266" frameHeight="405"/>
+	<SubTexture name="J_Foward0017" x="1018" y="10" width="218" height="400" frameX="0" frameY="-5" frameWidth="266" frameHeight="405"/>	
+	<SubTexture name="J_Foward0019" x="793" y="10" width="175" height="400" frameX="-45" frameY="0" frameWidth="266" frameHeight="405"/>
+	<SubTexture name="J_Foward0029" x="1286" y="10" width="220" height="400" frameX="-46" frameY="-5" frameWidth="266" frameHeight="405"/>
+	<SubTexture name="J_Left0000" x="1556" y="10" width="165" height="388" frameX="-19" frameY="0" frameWidth="228" frameHeight="388"/>
+	<SubTexture name="J_Left0009" x="1771" y="10" width="227" height="380" frameX="0" frameY="-5" frameWidth="228" frameHeight="388"/>
+	<SubTexture name="J_Left0019" x="1556" y="10" width="165" height="388" frameX="-19" frameY="0" frameWidth="228" frameHeight="388"/>
+	<SubTexture name="J_Left0029" x="10" y="480" width="228" height="380" frameX="0" frameY="-5" frameWidth="228" frameHeight="388"/>
+	<SubTexture name="J_Right0000" x="288" y="480" width="170" height="389" frameX="-43" frameY="0" frameWidth="229" frameHeight="389"/>
+	<SubTexture name="J_Right0009" x="508" y="480" width="229" height="380" frameX="0" frameY="-5" frameWidth="229" frameHeight="389"/>
+	<SubTexture name="J_Right0019" x="288" y="480" width="170" height="389" frameX="-43" frameY="0" frameWidth="229" frameHeight="389"/>
+	<SubTexture name="J_Right0029" x="787" y="480" width="229" height="380" frameX="0" frameY="-5" frameWidth="229" frameHeight="389"/>
+</TextureAtlas>

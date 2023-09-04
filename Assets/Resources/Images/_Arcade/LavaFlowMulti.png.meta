@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 5d4b6fff09f4142558341248bc85fb3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8207982823942857927
+    second: LavaFlow_0
+  - first:
+      213: 159583232193876742
+    second: LavaFlow_1
+  - first:
+      213: -902422029933144051
+    second: LavaFlow_2
+  - first:
+      213: -6154069307076725812
+    second: LavaFlow_3
+  - first:
+      213: 8457034724832154260
+    second: LavaFlow_4
+  - first:
+      213: 5921088341223684448
+    second: LavaFlow_5
+  - first:
+      213: 4495654083802938549
+    second: LavaFlow_6
+  - first:
+      213: 4069441247448381593
+    second: LavaFlow_7
+  - first:
+      213: -7145594096288358863
+    second: LavaFlow_8
+  - first:
+      213: -7958615855765963952
+    second: LavaFlow_9
+  - first:
+      213: -7488339674099658337
+    second: LavaFlow_10
+  - first:
+      213: -45974517318730511
+    second: LavaFlow_11
+  - first:
+      213: 2471601248640705118
+    second: LavaFlow_12
+  - first:
+      213: -6139597087028543713
+    second: LavaFlow_13
+  - first:
+      213: 5942902936737344754
+    second: LavaFlow_14
+  - first:
+      213: -242706243671610205
+    second: LavaFlow_15
+  - first:
+      213: 4012345871880821341
+    second: LavaFlow_16
+  - first:
+      213: 2953950747327855891
+    second: LavaFlow_17
+  - first:
+      213: -9101651464169321827
+    second: LavaFlow_18
+  - first:
+      213: -7422300065950924588
+    second: LavaFlow_19
+  - first:
+      213: 7531722736846183209
+    second: LavaFlow_20
+  - first:
+      213: 4172268858694683293
+    second: LavaFlow_21
+  - first:
+      213: -2320714522780017587
+    second: LavaFlow_22
+  - first:
+      213: 3311412471638709219
+    second: LavaFlow_23
+  - first:
+      213: 7330151628294456876
+    second: LavaFlow_24
+  - first:
+      213: 1555166286999751827
+    second: LavaFlow_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaFlow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42f9ff3ec98e170800000000000000
+      internalID: 8207982823942857927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603560baa14f63200800000000000000
+      internalID: 159583232193876742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1127
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08195ce1f3f973f0800000000000000
+      internalID: -902422029933144051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3be84229a589aa0800000000000000
+      internalID: -6154069307076725812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1029
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49293c2664c6d5570800000000000000
+      internalID: 8457034724832154260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069385e997eeb2250800000000000000
+      internalID: 5921088341223684448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcbb1af195c36e30800000000000000
+      internalID: 4495654083802938549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998bb74f04f897830800000000000000
+      internalID: 4069441247448381593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9a954700c5dc90800000000000000
+      internalID: -7145594096288358863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b3745bb015d8190800000000000000
+      internalID: -7958615855765963952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9153d7cdb2141890800000000000000
+      internalID: -7488339674099658337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc3f7a8b6aac5ff0800000000000000
+      internalID: -45974517318730511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5224a39d34ec4220800000000000000
+      internalID: 2471601248640705118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ff3a37af4cbcaa0800000000000000
+      internalID: -6139597087028543713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fceadeebbe697250800000000000000
+      internalID: 5942902936737344754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac2f2115fbb1acf0800000000000000
+      internalID: -242706243671610205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a1679ef47bea730800000000000000
+      internalID: 4012345871880821341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df972dd8a8ef820800000000000000
+      internalID: 2953950747327855891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a06c8473070b180800000000000000
+      internalID: -9101651464169321827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d003a04a61bef890800000000000000
+      internalID: -7422300065950924588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1374aced068860800000000000000
+      internalID: 7531722736846183209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9acbeddb60e6e930800000000000000
+      internalID: 4172268858694683293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5b9cef6a2bcfd0800000000000000
+      internalID: -2320714522780017587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d2dc291084fd20800000000000000
+      internalID: 3311412471638709219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c260e32b11ee9b560800000000000000
+      internalID: 7330151628294456876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaFlow_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c88479f7f059510800000000000000
+      internalID: 1555166286999751827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

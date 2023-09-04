@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech-box_assets.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Speech box0000" x="10" y="10" width="1453" height="629"/>
+	<SubTexture name="Speech box0001" x="1513" y="10" width="1453" height="629"/>
+	<SubTexture name="Speech box0002" x="10" y="689" width="1453" height="629"/>
+	<SubTexture name="Speech box0003" x="1513" y="689" width="1453" height="629"/>
+</TextureAtlas>

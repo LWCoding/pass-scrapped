@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: e2df43bea3527274e933d0fd1f8fc10d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2936319818328075868
+    second: VIOLET  fixed dimensions0000
+  - first:
+      213: 7388552007463410261
+    second: VIOLET  fixed dimensions0001
+  - first:
+      213: -509841657016876078
+    second: VIOLET  fixed dimensions0002
+  - first:
+      213: -3698039464454550086
+    second: VIOLET  fixed dimensions0003
+  - first:
+      213: 7120147512985222623
+    second: VIOLET  fixed dimensions0004
+  - first:
+      213: -8167479087608137541
+    second: VIOLET  fixed dimensions0005
+  - first:
+      213: 8730737460942291251
+    second: VIOLET  fixed dimensions0006
+  - first:
+      213: -1322711242877779791
+    second: VIOLET  fixed dimensions0007
+  - first:
+      213: -8732139700354924837
+    second: VIOLET  fixed dimensions0008
+  - first:
+      213: 7687966880974133882
+    second: VIOLET  fixed dimensions0009
+  - first:
+      213: -3754716277150999099
+    second: VIOLET  fixed dimensions0010
+  - first:
+      213: -3795211218577273644
+    second: VIOLET  fixed dimensions0011
+  - first:
+      213: 1527966467822320215
+    second: VIOLET  fixed dimensions0012
+  - first:
+      213: -3454259304807683743
+    second: VIOLET  fixed dimensions0013
+  - first:
+      213: -2174602841454535798
+    second: VIOLET  fixed dimensions0014
+  - first:
+      213: -3753630931570904469
+    second: VIOLET  fixed dimensions0015
+  - first:
+      213: 286812412540165860
+    second: VIOLET  fixed dimensions0016
+  - first:
+      213: 3336299802683222362
+    second: VIOLET  fixed dimensions0017
+  - first:
+      213: -4002888669749964302
+    second: VIOLET  fixed dimensions0018
+  - first:
+      213: 4490809253149110971
+    second: VIOLET  fixed dimensions0019
+  - first:
+      213: 4149720525313919537
+    second: VIOLET  fixed dimensions0020
+  - first:
+      213: -8428169503452536607
+    second: VIOLET  fixed dimensions0021
+  - first:
+      213: 7814091934246908763
+    second: VIOLET  fixed dimensions0022
+  - first:
+      213: 4780506981495808351
+    second: VIOLET  fixed dimensions0023
+  - first:
+      213: 6892617641194733272
+    second: VIOLET  fixed dimensions0024
+  - first:
+      213: -6474965441966963659
+    second: VIOLET  fixed dimensions0025
+  - first:
+      213: -6954756945383739228
+    second: VIOLET  fixed dimensions0026
+  - first:
+      213: -60476007877576752
+    second: VIOLET  fixed dimensions0027
+  - first:
+      213: -6702288203509301878
+    second: VIOLET  fixed dimensions0028
+  - first:
+      213: 4171514773691355915
+    second: VIOLET  fixed dimensions0029
+  - first:
+      213: -7525869488808623197
+    second: VIOLET  fixed dimensions0030
+  - first:
+      213: -8768467366029258820
+    second: VIOLET  fixed dimensions0031
+  - first:
+      213: -3270698406090174961
+    second: VIOLET  fixed dimensions0032
+  - first:
+      213: -3797354492050471579
+    second: VIOLET  fixed dimensions0033
+  - first:
+      213: -786290834608030515
+    second: VIOLET  fixed dimensions0034
+  - first:
+      213: 4491716752834222583
+    second: VIOLET  fixed dimensions0035
+  - first:
+      213: -135316084169869438
+    second: VIOLET  fixed dimensions0036
+  - first:
+      213: -4762072942358755816
+    second: VIOLET  fixed dimensions0037
+  - first:
+      213: -6349541265646315337
+    second: VIOLET  fixed dimensions0038
+  - first:
+      213: -8514323997908177578
+    second: VIOLET  fixed dimensions0039
+  - first:
+      213: 8954907072569670224
+    second: VIOLET  fixed dimensions0040
+  - first:
+      213: -3897074127675752512
+    second: VIOLET  fixed dimensions0041
+  - first:
+      213: -2197193969421709806
+    second: VIOLET  fixed dimensions0042
+  - first:
+      213: -7027091628502612379
+    second: VIOLET  fixed dimensions0043
+  - first:
+      213: 6968659299751940750
+    second: VIOLET  fixed dimensions0044
+  - first:
+      213: -8649444360481418615
+    second: VIOLET  fixed dimensions0045
+  - first:
+      213: -3116972162716737394
+    second: VIOLET  fixed dimensions0046
+  - first:
+      213: -2109301579628462434
+    second: VIOLET  fixed dimensions0047
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e62664157efb820800000000000000
+      internalID: 2936319818328075868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0001
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1b5197e8698660800000000000000
+      internalID: 7388552007463410261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0002
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d300d5d6bdace8f0800000000000000
+      internalID: -509841657016876078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0003
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8fcb33bcedacc0800000000000000
+      internalID: -3698039464454550086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0004
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd7ddb5078dfc260800000000000000
+      internalID: 7120147512985222623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0005
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb87fa00b0947ae80800000000000000
+      internalID: -8167479087608137541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0006
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33149aa967fc92970800000000000000
+      internalID: 8730737460942291251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0007
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0cad3f129c4ade0800000000000000
+      internalID: -1322711242877779791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0008
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde3247153531d680800000000000000
+      internalID: -8732139700354924837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0009
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a5e69452521ba60800000000000000
+      internalID: 7687966880974133882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0010
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd9904707194ebc0800000000000000
+      internalID: -3754716277150999099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0011
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dccf1d2183b45bc0800000000000000
+      internalID: -3795211218577273644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0012
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af14f286d643510800000000000000
+      internalID: 1527966467822320215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0013
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169a9d6b6710010d0800000000000000
+      internalID: -3454259304807683743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0014
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1c8bbc3242d1e0800000000000000
+      internalID: -2174602841454535798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0015
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b623cc92e8c68ebc0800000000000000
+      internalID: -3753630931570904469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0016
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee11ae9e56faf300800000000000000
+      internalID: 286812412540165860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0017
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 5232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59a32b7efaec4e20800000000000000
+      internalID: 3336299802683222362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0018
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f11e1c86f1e278c0800000000000000
+      internalID: -4002888669749964302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0019
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb27dffe83f825e30800000000000000
+      internalID: 4490809253149110971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0020
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13acb74e4d4c69930800000000000000
+      internalID: 4149720525313919537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0021
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06eefad70290b80800000000000000
+      internalID: -8428169503452536607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0022
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53380f963b317c60800000000000000
+      internalID: 7814091934246908763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0023
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51255e75c5c75240800000000000000
+      internalID: 4780506981495808351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0024
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deb00cd93f77af50800000000000000
+      internalID: 6892617641194733272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0025
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53401a28c3d4426a0800000000000000
+      internalID: -6474965441966963659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0026
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b833f76dbb7f90800000000000000
+      internalID: -6954756945383739228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0027
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f5092465292ff0800000000000000
+      internalID: -60476007877576752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0028
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d798f9360bcf2a0800000000000000
+      internalID: -6702288203509301878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0029
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03da25c59234e930800000000000000
+      internalID: 4171514773691355915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0030
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38c9dd29dbe8790800000000000000
+      internalID: -7525869488808623197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0031
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf883f4365205680800000000000000
+      internalID: -8768467366029258820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0032
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0f89e0252c92d0800000000000000
+      internalID: -3270698406090174961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0033
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565091f65361d4bc0800000000000000
+      internalID: -3797354492050471579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0034
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccfa01e6a88615f0800000000000000
+      internalID: -786290834608030515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0035
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9da5ca698c55e30800000000000000
+      internalID: 4491716752834222583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0036
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28778a60db24f1ef0800000000000000
+      internalID: -135316084169869438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0037
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8160534b3e7b9edb0800000000000000
+      internalID: -4762072942358755816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0038
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b897763cd5e1e7a0800000000000000
+      internalID: -6349541265646315337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0039
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d691a4f6b07d980800000000000000
+      internalID: -8514323997908177578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0040
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af5219988364c70800000000000000
+      internalID: 8954907072569670224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0041
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf758c7abfcae9c0800000000000000
+      internalID: -3897074127675752512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0042
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0dfdd9bff181e0800000000000000
+      internalID: -2197193969421709806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0043
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660bfe1561ca7e90800000000000000
+      internalID: -7027091628502612379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0044
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82df6a26b6a5b060800000000000000
+      internalID: 6968659299751940750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0045
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982dffc4e2007f780800000000000000
+      internalID: -8649444360481418615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0046
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 3732
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80ec7a155a4eb4d0800000000000000
+      internalID: -3116972162716737394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VIOLET  fixed dimensions0047
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2232
+        width: 1254
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e331e83614ab2e0800000000000000
+      internalID: -2109301579628462434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

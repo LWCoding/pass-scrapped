@@ -1,0 +1,246 @@
+{
+    "allies": [
+        {
+            "name": "Jack",
+            "nameSuffix": "",
+            "baseStats": {
+                "health": 40,
+                "damage": 12,
+                "energy": 100,
+                "defense": 3,
+                "utility": 4,
+                "dodgeChance": 0.05
+            },
+            "levelSystem": {
+                "currLevel": 1,
+                "currXp": 0,
+                "xpToNextLevel": 100
+            },
+            "energyCharge": 15,
+            "spriteWidth": 3.2,
+            "relativeItemTransform": {
+                "x": 1.7,
+                "y": 0.5
+            },
+            "relativeStatusTransform": {
+                "x": -1.7,
+                "y": 1
+            },
+            "attackType": 0,
+            "specialList": [
+                {
+                    "specialName": "Frenzy",
+                    "description": "Claws an enemy multiple times. All can be timed correctly to maximize damage.",
+                    "energyCost": 40,
+                    "targetsAlly": false,
+                    "targetsEnemy": true,
+                    "levelRequirement": 0
+                }
+            ]
+        },
+        {
+            "name": "Reno",
+            "nameSuffix": "",
+            "baseStats": {
+                "health": 40,
+                "damage": 12,
+                "energy": 100,
+                "defense": 3,
+                "utility": 4,
+                "dodgeChance": 0.05
+            },
+            "levelSystem": {
+                "currLevel": 1,
+                "currXp": 0,
+                "xpToNextLevel": 100
+            },
+            "energyCharge": 15,
+            "spriteWidth": 3.2,
+            "spriteScale": {
+                "x": 0.95,
+                "y": 0.95
+            },
+            "spriteTransform": {
+                "x": -0.2,
+                "y": 0.4
+            },
+            "relativeItemTransform": {
+                "x": 1.7,
+                "y": 0.5
+            },
+            "relativeStatusTransform": {
+                "x": -1.7,
+                "y": 1
+            },
+            "attackType": 0,
+            "specialList": [
+                {
+                    "specialName": "Pursuit",
+                    "description": "Injects an enemy with a chip. Deals slight damage, target takes +25% from all sources.",
+                    "energyCost": 30,
+                    "targetsAlly": false,
+                    "targetsEnemy": true,
+                    "levelRequirement": 0
+                }
+            ]
+        }
+    ],
+    "enemies": [
+        {
+            "name": "Jack",
+            "nameSuffix": "",
+            "dangerLevel": 5,
+            "isBoss": true,
+            "baseStats": {
+                "health": 1,
+                "damage": 12,
+                "energy": 100,
+                "defense": 3,
+                "utility": 4,
+                "dodgeChance": 0.5
+            },
+            "energyCharge": 20,
+            "spriteWidth": 3.2,
+            "relativeItemTransform": {
+                "x": -1.7,
+                "y": 0.5
+            },
+            "relativeStatusTransform": {
+                "x": 1.7,
+                "y": 1.3
+            },
+            "attackType": 0,
+            "xpWorth": 25,
+            "potentialItemsGained": [],
+            "specialList": [
+                {
+                    "specialName": "Frenzy",
+                    "description": "Claws an enemy multiple times. All can be timed correctly to maximize damage.",
+                    "energyCost": 40
+                }
+            ],
+            "messagePriority": 0,
+            "encounterMessages": [
+                "Enemy @s paradoxed into the battle! ...How is this happening?",
+                "Enemy @s is breaking time and space, joining the fight!"
+            ],
+            "groupEncounterMessages": [
+                "@t are storming your party! Is this a glitch?"
+            ],
+            "idleMessages": [
+                "Enemy @s is flicking his tail in the wind, itching for a fight.",
+                "Enemy @s wonders whether this is real or not..."
+            ]
+        },
+        {
+            "name": "Dummy",
+            "nameSuffix": "",
+            "dangerLevel": 6,
+            "isBoss": false,
+            "baseStats": {
+                "health": 40,
+                "damage": 12,
+                "energy": 100,
+                "defense": 3,
+                "utility": 4,
+                "dodgeChance": 0
+            },
+            "energyCharge": 20,
+            "spriteWidth": 3.2,
+            "relativeItemTransform": {
+                "x": 0,
+                "y": 0.5
+            },
+            "relativeStatusTransform": {
+                "x": 1.7,
+                "y": 1.3
+            },
+            "attackType": 1,
+            "xpWorth": 10,
+            "potentialItemsGained": [],
+            "specialList": [
+                {
+                    "specialName": "Pursuit",
+                    "description": "Injects an enemy with a chip. Deals slight damage, target takes +25% from all sources.",
+                    "energyCost": 0
+                }
+            ],
+            "messagePriority": 0,
+            "encounterMessages": [
+                "Enemy @s got itself all up in your face! Show it who's boss!",
+                "Enemy @s nonchalantly slid itself into battle!"
+            ],
+            "groupEncounterMessages": [
+                "@t stomped their separate ways into the fight!"
+            ],
+            "idleMessages": [
+                "Enemy @s just stands in place... menacingly.",
+                "Enemy @s makes no sign of life, standing in the distant cold."
+            ]
+        },
+        {
+            "name": "Joke",
+            "nameSuffix": "",
+            "dangerLevel": 10,
+            "isBoss": false,
+            "baseStats": {
+                "health": 1,
+                "damage": 12,
+                "energy": 100,
+                "defense": 3,
+                "utility": 4,
+                "dodgeChance": 0.05
+            },
+            "energyCharge": 20,
+            "spriteWidth": 3.2,
+            "relativeItemTransform": {
+                "x": -1.7,
+                "y": 0.5
+            },
+            "relativeStatusTransform": {
+                "x": 1.7,
+                "y": 1.3
+            },
+            "attackType": 0,
+            "xpWorth": 500,
+            "potentialItemsGained": [
+                {
+                    "itemName": "Heal Syringe",
+                    "itemCount": 3,
+                    "dropChance": 1,
+                    "isUniqueDrop": true
+                },
+                {
+                    "itemName": "Stun Grenade",
+                    "itemCount": 3,
+                    "dropChance": 1,
+                    "isUniqueDrop": true
+                },
+                {
+                    "itemName": "Stun Grenade",
+                    "itemCount": 3,
+                    "dropChance": 1,
+                    "isUniqueDrop": false
+                }
+            ],
+            "specialList": [
+                {
+                    "specialName": "Frenzy",
+                    "description": "Claws an enemy multiple times. All can be timed correctly to maximize damage.",
+                    "energyCost": 0
+                }
+            ],
+            "messagePriority": 0,
+            "encounterMessages": [
+                "Enemy @s paradoxed into the battle! ...How is this happening?",
+                "Enemy @s is breaking time and space, joining the fight!"
+            ],
+            "groupEncounterMessages": [
+                "@t are storming your party! Is this a glitch?"
+            ],
+            "idleMessages": [
+                "Enemy @s is spooning themselves in fear! A real battle!"
+            ]
+        }
+    ]
+}

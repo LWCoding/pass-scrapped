@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "itemName": "Heal Syringe",
+            "itemType": "Consumable",
+            "itemId": 1,
+            "description": "Heals 20 health on a damaged ally. Cannot revive downed allies.",
+            "targetsAlly": true,
+            "targetsEnemy": false
+        },
+        {
+            "itemName": "Stun Grenade",
+            "itemType": "Damageable",
+            "itemId": 2,
+            "description": "Deals moderate damage to target and adjacent enemies. Chance of inflicting paralysis.",
+            "targetsAlly": false,
+            "targetsEnemy": true
+        }
+    ]
+}

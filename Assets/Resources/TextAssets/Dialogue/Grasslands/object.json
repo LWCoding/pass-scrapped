@@ -1,0 +1,35 @@
+{
+    "dialogueName": "obj-dialogue",
+    "dialogues": [
+        {
+            "id": 0,
+            "loop": true,
+            "initialLeftSprite": "JackSkeptical",
+            "initialRightSprite": "None",
+            "rawDialogueList": [
+                {
+                    "name": "Jack",
+                    "contents": "What? What is this?",
+                    "active": "left",
+                    "id": 0,
+                    "next": 1
+                },
+                {
+                    "name": "Jack",
+                    "contents": "I'm gonna step on it",
+                    "active": "left",
+                    "id": 1,
+                    "next": 2
+                },
+                {
+                    "name": "Jack",
+                    "contents": "ow. :(",
+                    "leftSprite": "JackAngry",
+                    "active": "left",
+                    "id": 2,
+                    "next": -1
+                }
+            ]
+        }
+    ]
+}

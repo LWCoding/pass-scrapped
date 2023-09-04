@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 5298b044e38d84ddd8664adb4ef635c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4861761499446600469
+    second: Reno Intro0000
+  - first:
+      213: 863749579777912129
+    second: Reno Intro0001
+  - first:
+      213: 7142696044337875218
+    second: Reno Intro0002
+  - first:
+      213: 5596350463328985823
+    second: Reno Intro0003
+  - first:
+      213: 9029326462863698627
+    second: Reno Intro0004
+  - first:
+      213: 8858177838793302143
+    second: Reno Intro0005
+  - first:
+      213: 5378736173003251998
+    second: Reno Intro0006
+  - first:
+      213: 7435189633447076096
+    second: Reno Intro0007
+  - first:
+      213: -3842660513444475170
+    second: Reno Intro0008
+  - first:
+      213: -2689271803365821989
+    second: Reno Intro0009
+  - first:
+      213: -1682309537204671139
+    second: Reno Intro0010
+  - first:
+      213: 4973446028329563349
+    second: Reno Intro0011
+  - first:
+      213: -1001575552724115435
+    second: Reno Intro0012
+  - first:
+      213: -3439917630657726048
+    second: Reno Intro0013
+  - first:
+      213: -5045754170076101231
+    second: Reno Intro0014
+  - first:
+      213: -6852061914618427492
+    second: Reno Intro0015
+  - first:
+      213: 930460597920685472
+    second: Reno Intro0016
+  - first:
+      213: -3382587710035361710
+    second: Reno Intro0017
+  - first:
+      213: 7537716450975809162
+    second: Reno Intro0018
+  - first:
+      213: 2263328010560112291
+    second: Reno Intro0019
+  - first:
+      213: 2868279637281647815
+    second: Reno Intro0020
+  - first:
+      213: -5165815940191173813
+    second: Reno Intro0021
+  - first:
+      213: -5157984536259486115
+    second: Reno Intro0022
+  - first:
+      213: 1045812089421277755
+    second: Reno Intro0023
+  - first:
+      213: 6438836191945266272
+    second: Reno Intro0024
+  - first:
+      213: 2832773777960997782
+    second: Reno Intro0025
+  - first:
+      213: 5472979279680225304
+    second: Reno Intro0026
+  - first:
+      213: 6661783556444945848
+    second: Reno Intro0027
+  - first:
+      213: -2772300122121172982
+    second: Reno Intro0028
+  - first:
+      213: 5862054165522623508
+    second: Reno Intro0029
+  - first:
+      213: 5130364477523944876
+    second: Reno Intro0030
+  - first:
+      213: 7844015497562201537
+    second: Reno Intro0031
+  - first:
+      213: 3937226158663127341
+    second: Reno Intro0032
+  - first:
+      213: 6129891510543878161
+    second: Reno Intro0033
+  - first:
+      213: 6549705201748490278
+    second: Reno Intro0034
+  - first:
+      213: 46609022005612829
+    second: Reno Intro0035
+  - first:
+      213: 7713498808526820103
+    second: Reno Intro0036
+  - first:
+      213: 902927365075654372
+    second: Reno Intro0037
+  - first:
+      213: 7153760295496066460
+    second: Reno Intro0038
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reno Intro0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3121
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec90daccad878cb0800000000000000
+      internalID: -4861761499446600469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0002
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3121
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219c85d6534ff1360800000000000000
+      internalID: 7142696044337875218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0004
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 3121
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca660c149c9e4d70800000000000000
+      internalID: 9029326462863698627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0010
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 3121
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5de9a0a36c37a8e0800000000000000
+      internalID: -1682309537204671139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0031
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2106
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9ad0298a8bdc60800000000000000
+      internalID: 7844015497562201537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0033
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2106
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11886ade9dfb11550800000000000000
+      internalID: 6129891510543878161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0035
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 2106
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1119f798a695a000800000000000000
+      internalID: 46609022005612829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0037
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2106
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6505597a7d78c00800000000000000
+      internalID: 902927365075654372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reno Intro0038
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1091
+        width: 846
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9526552613474360800000000000000
+      internalID: 7153760295496066460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
